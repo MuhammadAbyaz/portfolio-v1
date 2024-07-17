@@ -140,7 +140,7 @@ export default function Page() {
             //     );
             //   })
             // }
-            }
+          }
         </Section>
         <Section>
           <h2 className="text-xl font-bold">Education</h2>
