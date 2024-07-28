@@ -40,16 +40,16 @@ export const RESUME_DATA = {
     },
   ],
   work: [
-    // {
-    // company:"",
-    // link:"",
-    // badges: [""],
-    // title: ""
-    // logo: ,
-    // start: "",
-    // end: null,
-    // description: ""
-    // }
+    {
+      company: "Headstarter AI",
+      link: "",
+      badges: [""],
+      title: "Software Engineer Fellow",
+      logo: null,
+      start: "July 2024",
+      end: null,
+      description: ""
+    }
   ],
   skills: [
     "Python3",
