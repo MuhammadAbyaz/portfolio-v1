@@ -40,16 +40,16 @@ export const RESUME_DATA = {
     },
   ],
   work: [
-    // {
-    //   company: "Headstarter AI",
-    //   link: "",
-    //   badges: [""],
-    //   title: "Software Engineer Fellow",
-    //   logo: null,
-    //   start: "July 2024",
-    //   end: null,
-    //   description: ""
-    // }
+    {
+      company: "ByteCorp",
+      link: "https://www.bytecorp.io/",
+      badges: [""],
+      title: "Software Engineer Intern",
+      logo: null,
+      start: "August 2024",
+      end: null,
+      description: ""
+    }
   ],
   skills: [
     "Python3",
@@ -59,6 +59,7 @@ export const RESUME_DATA = {
     "TailwindCSS",
     "NodeJS",
     "ExpressJS",
+    "FastApi"
   ],
   projects: [
     {
