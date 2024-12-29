@@ -47,6 +47,16 @@ export const RESUME_DATA = {
       title: "Software Engineer Intern",
       logo: null,
       start: "August 2024",
+      end: "October 2024",
+      description: ""
+    },
+    {
+      company: "ByteCorp",
+      link: "https://www.bytecorp.io/",
+      badges: [""],
+      title: "Associate Software Engineer",
+      logo: null,
+      start: "November 2024",
       end: null,
       description: ""
     }
@@ -57,6 +67,7 @@ export const RESUME_DATA = {
     "HTML",
     "CSS",
     "TailwindCSS",
+    "ReactJS",
     "NodeJS",
     "ExpressJS",
     "FastApi"
